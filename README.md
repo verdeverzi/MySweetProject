@@ -35,7 +35,7 @@ as an argument to accept changes
 sudo apt update     
 ```
 ## Delete all the content from tmp folder 
-``` 
+```sh 
 sudo rm -rf /tmp/*
 ```
 ## 5. Reload Services
